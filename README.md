@@ -1,5 +1,5 @@
 # Imitation Learning for 7-DOF Robot Trajectories
-We used feedforward MLP to learn the trajectories
+We used feedforward MLP to learn the trajectories. The trained and developed imitation learning model achieved position and orientation RMSE of < 0.0001 from expert trajectories
 ## Models Overview
 
 1. **Trajectory Imitation Without Noise and Offset**
