@@ -1,5 +1,5 @@
 # Imitation Learning for 7-DOF Robot Trajectories
-
+We used feedforward MLP to learn the trajectories
 ## Models Overview
 
 1. **Trajectory Imitation Without Noise and Offset**
